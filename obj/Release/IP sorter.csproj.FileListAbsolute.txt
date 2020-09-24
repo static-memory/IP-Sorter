@@ -1,0 +1,10 @@
+C:\Users\Inter\source\repos\IP sorter\IP sorter\bin\Release\IP sorter.exe.config
+C:\Users\Inter\source\repos\IP sorter\IP sorter\bin\Release\IP sorter.exe
+C:\Users\Inter\source\repos\IP sorter\IP sorter\bin\Release\IP sorter.pdb
+C:\Users\Inter\source\repos\IP sorter\IP sorter\obj\Release\IP_sorter.Form1.resources
+C:\Users\Inter\source\repos\IP sorter\IP sorter\obj\Release\IP_sorter.Properties.Resources.resources
+C:\Users\Inter\source\repos\IP sorter\IP sorter\obj\Release\IP sorter.csproj.GenerateResource.cache
+C:\Users\Inter\source\repos\IP sorter\IP sorter\obj\Release\IP sorter.csproj.CoreCompileInputs.cache
+C:\Users\Inter\source\repos\IP sorter\IP sorter\obj\Release\IP sorter.exe
+C:\Users\Inter\source\repos\IP sorter\IP sorter\obj\Release\IP sorter.pdb
+C:\Users\Inter\source\repos\IP sorter\IP sorter\obj\Release\IP sorter.csprojAssemblyReference.cache
